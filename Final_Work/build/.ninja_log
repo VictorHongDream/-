@@ -1,0 +1,22 @@
+# ninja log v5
+1	1801	597587142	CMakeFiles/main.dir/InitShader.cpp.obj	5f11fcae279a0f2c
+2	1630	597588963	CMakeFiles/main.dir/main.cpp.obj	ee280aaa74a9b8a0
+0	1424	597589389	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+8	1917	597588963	CMakeFiles/main.dir/Mesh_Painter.cpp.obj	77fb8474256c201b
+1424	2485	597589389	main.exe	9e3b33e12d5cf458
+1	1351	597589671	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1351	2518	597589672	main.exe	9e3b33e12d5cf458
+1	1250	597589681	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1250	2169	597589681	main.exe	9e3b33e12d5cf458
+1	1453	597589704	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1453	2609	597589704	main.exe	9e3b33e12d5cf458
+1	1514	597589747	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1514	2659	597589748	main.exe	9e3b33e12d5cf458
+2	1508	597589906	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1508	2522	597589906	main.exe	9e3b33e12d5cf458
+1	1314	597589940	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1315	2304	597589941	main.exe	9e3b33e12d5cf458
+1	1372	597589982	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1373	2453	597589983	main.exe	9e3b33e12d5cf458
+1	1433	597590010	CMakeFiles/main.dir/mesh.cpp.obj	38cd3b9f134752c3
+1434	2693	597590011	main.exe	9e3b33e12d5cf458

@@ -1,0 +1,25 @@
+[
+{
+  "directory": "F:/图形/2017153040_吴嘉鸿_实验四/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\2017153040_吴嘉鸿_实验四\\InitShader.cpp",
+  "file": "F:/图形/2017153040_吴嘉鸿_实验四/InitShader.cpp"
+},
+
+{
+  "directory": "F:/图形/2017153040_吴嘉鸿_实验四/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\2017153040_吴嘉鸿_实验四\\Mesh_Painter.cpp",
+  "file": "F:/图形/2017153040_吴嘉鸿_实验四/Mesh_Painter.cpp"
+},
+
+{
+  "directory": "F:/图形/2017153040_吴嘉鸿_实验四/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\2017153040_吴嘉鸿_实验四\\main.cpp",
+  "file": "F:/图形/2017153040_吴嘉鸿_实验四/main.cpp"
+},
+
+{
+  "directory": "F:/图形/2017153040_吴嘉鸿_实验四/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\2017153040_吴嘉鸿_实验四\\mesh.cpp",
+  "file": "F:/图形/2017153040_吴嘉鸿_实验四/mesh.cpp"
+}
+]
